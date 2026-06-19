@@ -66,22 +66,6 @@ React · Vite · HTML/CSS
 
 ---
 
-## leadership
-
-**🔷 SIG AI Lead — IEEE CUSAT Student Branch** *(Feb 2026 – Present)*  
-Running the AI special interest group. Organizing workshops, hackathons, and technical talks that actually teach something.
-
-**🔷 Treasurer — IEEE CUSAT Student Branch** *(Feb 2026 – Present)*  
-Managing branch finances and budgets across events and initiatives.
-
-**Events I've run:**
-- ⚡ N8N Hackathon — 10-hour workflow-building competition
-- 🖥️ CUDA Programming Workshop — zero-cost, Google Colab-based GPU computing
-- 🎨 Prompt Engineering Competition — image generation challenge under IEEE CSKS
-- 🤖 AI event series exploring agentic systems, MCP protocol, and more
-
----
-
 ## a few things i've built
 
 | project | what it does | stack |
@@ -89,7 +73,6 @@ Managing branch finances and budgets across events and initiatives.
 | **MedAssist** | RAG medical assistant with OCR + drug interaction checks | Django · LangChain · ChromaDB |
 | **CUSAT Admissions Monitor** | Monitors admissions page, sends Telegram alerts on updates | Python · GCP · Telegram Bot API |
 | **Quiz Platform** | Full quiz app with JWT auth, leaderboard, server-side grading | Django · DRF · PostgreSQL |
-| **SARGAM Dashboard** | Cultural fest results processor with interactive HTML dashboard | Python · pandas · openpyxl |
 
 ---
 
