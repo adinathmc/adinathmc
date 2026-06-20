@@ -11,7 +11,7 @@
 
 ### building things that matter · breaking things to learn
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=AI+%2F+Backend+Engineer;IEEE+SIG+AI+Lead+%40+CUSAT;Always+building+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=AI+%2F+Backend+Engineer;CS+%40+CUSAT;Always+building+something)](https://git.io/typing-svg)
 
 </div>
 
@@ -74,6 +74,7 @@ React · Vite · HTML/CSS
 | **CUSAT Admissions Monitor** | Monitors admissions page, sends Telegram alerts on updates | Python · GCP · Telegram Bot API |
 | **Quiz Platform** | Full quiz app with JWT auth, leaderboard, server-side grading | Django · DRF · PostgreSQL |
 
+
 ---
 
 ## github stats
@@ -90,12 +91,12 @@ React · Vite · HTML/CSS
 
 ## find me
 
-[![Portfolio](https://img.shields.io/badge/portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://adinathmc-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://adinathmc-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adinathmc)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adinathmc)
 
 ---
 
 <div align="center">
-  <sub>BTech CSE @ CUSAT · IEEE SIG AI Lead · Kerala, India</sub>
+  <sub>BTech CSE @ CUSAT · Kerala, India</sub>
 </div>
